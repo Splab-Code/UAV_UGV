@@ -11,7 +11,7 @@ np.set_printoptions(threshold='nan')
 import math
 import matplotlib.pyplot as plt
 import dongtai
-#-*- coding: UTF-8 -*-
+
 import datetime
 
 numant = 10 #蚂蚁个数
