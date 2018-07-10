@@ -5,7 +5,7 @@ Spyder Editor
 This temporary script file is located here:
 C:\Users\潘sir\.spyder2\.temp.py
 """
-#[565.0,575.0],[25.0,185.0],[345.0,750.0],[945.0,685.0],[845.0,655.0]
+
 import numpy as np
 np.set_printoptions(threshold='nan')
 import math
